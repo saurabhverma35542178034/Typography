@@ -50,6 +50,9 @@ p{
 .middleBody{
     padding:20px;
 }
+.middleBody p{
+    font-size: 15px;
+}
 .lowerBody {
     
     padding: 1rem;
