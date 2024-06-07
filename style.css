@@ -8,9 +8,9 @@ p{
     width: 30%;
     height: 85vh;
     /* background-color: darkgrey; */
-    position: fixed;
-    margin: auto;
-    inset: 0;
+     display:block;
+    margin-left:auto;
+    margin-right:auto;
 
     
 }
